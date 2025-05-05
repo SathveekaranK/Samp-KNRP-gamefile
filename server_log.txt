@@ -1,0 +1,1691 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:16:09] filterscripts = ""  (string)
+[16:16:09] 
+[16:16:09] Server Plugins
+[16:16:09] --------------
+[16:16:09]  Loading plugin: crashdetect
+[16:16:09]   CrashDetect plugin 4.19.4
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: streamer
+[16:16:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: sscanf
+[16:16:09] 
+
+[16:16:09]  ===============================
+
+[16:16:09]       sscanf plugin loaded.     
+
+[16:16:09]          Version:  2.8.1        
+
+[16:16:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:16:09]  ===============================
+
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: TOTP
+[16:16:09] TOTP plugin v1.0.1 by Games loaded.
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: pawncmd
+[16:16:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: regex
+[16:16:09] 
+
+[16:16:09] ______________________________________
+
+[16:16:09]  Regular Expression Plugin v0.2.1 loaded
+[16:16:09] ______________________________________
+
+[16:16:09]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:16:09] ______________________________________
+
+[16:16:09]   Loaded.
+[16:16:09]  Loading plugin: mysql
+[16:16:09]  >> plugin.mysql: R41-4 successfully loaded.
+[16:16:09]   Loaded.
+[16:16:09]  Loaded 7 plugins.
+
+[16:16:09] 
+[16:16:09] Filterscripts
+[16:16:09] ---------------
+[16:16:09]   Loaded 0 filterscripts.
+
+[16:16:09] [Nex-AC] Загрузка античита прошла успешно
+[16:16:09] [Normative-Rp] Происходит загрузка игрового мода...
+[16:16:10] NPC поездов подключены
+[16:16:10] Подключение к базе данных выполнено
+[16:16:10] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[16:16:10] Number of vehicle models: 64
+[16:16:10] Экономика загружена [1 мс]
+[16:16:10] 24 зон мафий на карте загружено | 0 мс
+[16:16:10] Семьи не загружены
+[16:16:10] [connection] 127.0.0.1:59779 requests connection cookie.
+[16:16:10] >> Шахтёрские склады загружены
+[16:16:10] Банки организаций загружены [2 мс]
+[16:16:10] [connection] 127.0.0.1:59780 requests connection cookie.
+[16:16:10] [connection] 127.0.0.1:59781 requests connection cookie.
+[16:16:10] Склады банд загружены [2 мс]
+[16:16:10] Билборды загружены [30 шт.] [6 мс]
+[16:16:10] Загружено 20 заправочных станций
+[16:16:10] Мебель не загружена
+[16:16:10] Гаражи | Загружено 12 | 6 мс
+[16:16:10] Номера в отеле | Загружено: 36 | 5 мс
+[16:16:11] Квартиры | Загружено: 48 | 21 мс
+[16:16:11] Business | Загружено: 98 | 110 мс
+[16:16:11] LoadHouses | Загружено 526 | 490 мс
+[16:16:11] 104 зон банд на карте загружено | 5 мс
+[16:16:11] Дата запуска: 01.10.2023 в 16:16
+[16:16:11] [connection] incoming connection: 127.0.0.1:59779 id: 0
+[16:16:11] [connection] incoming connection: 127.0.0.1:59780 id: 1
+[16:16:11] [connection] incoming connection: 127.0.0.1:59781 id: 2
+[16:16:12] [npc:join] Andrey_Ringo has joined the server (0:127.0.0.1)
+[16:16:12] [npc:join] Tony_Barrera has joined the server (1:127.0.0.1)
+[16:16:12] [npc:join] El_Capone has joined the server (2:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:17:17] filterscripts = ""  (string)
+[16:17:17] 
+[16:17:17] Server Plugins
+[16:17:17] --------------
+[16:17:17]  Loading plugin: crashdetect
+[16:17:17]   CrashDetect plugin 4.19.4
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: streamer
+[16:17:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: sscanf
+[16:17:17] 
+
+[16:17:17]  ===============================
+
+[16:17:17]       sscanf plugin loaded.     
+
+[16:17:17]          Version:  2.8.1        
+
+[16:17:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:17:17]  ===============================
+
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: TOTP
+[16:17:17] TOTP plugin v1.0.1 by Games loaded.
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: pawncmd
+[16:17:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: regex
+[16:17:17] 
+
+[16:17:17] ______________________________________
+
+[16:17:17]  Regular Expression Plugin v0.2.1 loaded
+[16:17:17] ______________________________________
+
+[16:17:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:17:17] ______________________________________
+
+[16:17:17]   Loaded.
+[16:17:17]  Loading plugin: mysql
+[16:17:17]  >> plugin.mysql: R41-4 successfully loaded.
+[16:17:17]   Loaded.
+[16:17:17]  Loaded 7 plugins.
+
+[16:17:17] 
+[16:17:17] Filterscripts
+[16:17:17] ---------------
+[16:17:17]   Loaded 0 filterscripts.
+
+[16:17:17] [Nex-AC] Загрузка античита прошла успешно
+[16:17:17] [Normative-Rp] Происходит загрузка игрового мода...
+[16:17:17] NPC поездов подключены
+[16:17:17] Подключение к базе данных выполнено
+[16:17:17] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[16:17:17] Number of vehicle models: 64
+[16:17:17] [connection] 127.0.0.1:59783 requests connection cookie.
+[16:17:17] Экономика загружена [0 мс]
+[16:17:17] 24 зон мафий на карте загружено | 0 мс
+[16:17:17] Семьи не загружены
+[16:17:17] [connection] 127.0.0.1:59784 requests connection cookie.
+[16:17:17] >> Шахтёрские склады загружены
+[16:17:17] [connection] 127.0.0.1:59785 requests connection cookie.
+[16:17:17] Банки организаций загружены [2 мс]
+[16:17:17] Склады банд загружены [2 мс]
+[16:17:17] Билборды загружены [30 шт.] [7 мс]
+[16:17:17] Загружено 20 заправочных станций
+[16:17:17] Мебель не загружена
+[16:17:17] Гаражи | Загружено 12 | 5 мс
+[16:17:17] Номера в отеле | Загружено: 36 | 4 мс
+[16:17:17] Квартиры | Загружено: 48 | 20 мс
+[16:17:18] Business | Загружено: 98 | 110 мс
+[16:17:18] LoadHouses | Загружено 526 | 498 мс
+[16:17:18] 104 зон банд на карте загружено | 5 мс
+[16:17:18] Дата запуска: 01.10.2023 в 16:17
+[16:17:18] [connection] incoming connection: 127.0.0.1:59783 id: 0
+[16:17:18] [connection] incoming connection: 127.0.0.1:59784 id: 1
+[16:17:18] [connection] incoming connection: 127.0.0.1:59785 id: 2
+[16:17:19] [npc:join] Andrey_Ringo has joined the server (0:127.0.0.1)
+[16:17:19] [npc:join] Tony_Barrera has joined the server (1:127.0.0.1)
+[16:17:19] [npc:join] El_Capone has joined the server (2:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:59] filterscripts = ""  (string)
+[16:19:00] 
+[16:19:00] Server Plugins
+[16:19:00] --------------
+[16:19:00]  Loading plugin: crashdetect
+[16:19:00]   CrashDetect plugin 4.19.4
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: streamer
+[16:19:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: sscanf
+[16:19:00] 
+
+[16:19:00]  ===============================
+
+[16:19:00]       sscanf plugin loaded.     
+
+[16:19:00]          Version:  2.8.1        
+
+[16:19:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:19:00]  ===============================
+
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: TOTP
+[16:19:00] TOTP plugin v1.0.1 by Games loaded.
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: pawncmd
+[16:19:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: regex
+[16:19:00] 
+
+[16:19:00] ______________________________________
+
+[16:19:00]  Regular Expression Plugin v0.2.1 loaded
+[16:19:00] ______________________________________
+
+[16:19:00]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:19:00] ______________________________________
+
+[16:19:00]   Loaded.
+[16:19:00]  Loading plugin: mysql
+[16:19:00]  >> plugin.mysql: R41-4 successfully loaded.
+[16:19:00]   Loaded.
+[16:19:00]  Loaded 7 plugins.
+
+[16:19:00] 
+[16:19:00] Filterscripts
+[16:19:00] ---------------
+[16:19:00]   Loaded 0 filterscripts.
+
+[16:19:00] [Nex-AC] Загрузка античита прошла успешно
+[16:19:00] [Normative-Rp] Происходит загрузка игрового мода...
+[16:19:00] NPC поездов подключены
+[16:19:00] Подключение к базе данных выполнено
+[16:19:00] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[16:19:00] [connection] 172.234.49.146:59787 requests connection cookie.
+[16:19:00] Number of vehicle models: 64
+[16:19:00] Экономика загружена [0 мс]
+[16:19:00] 24 зон мафий на карте загружено | 0 мс
+[16:19:00] Семьи не загружены
+[16:19:00] >> Шахтёрские склады загружены
+[16:19:00] [connection] 172.234.49.146:59788 requests connection cookie.
+[16:19:00] [connection] 172.234.49.146:59789 requests connection cookie.
+[16:19:00] Банки организаций загружены [3 мс]
+[16:19:00] Склады банд загружены [2 мс]
+[16:19:00] Билборды загружены [30 шт.] [8 мс]
+[16:19:00] Загружено 20 заправочных станций
+[16:19:00] Мебель не загружена
+[16:19:00] Гаражи | Загружено 12 | 3 мс
+[16:19:00] Номера в отеле | Загружено: 36 | 3 мс
+[16:19:00] Квартиры | Загружено: 48 | 23 мс
+[16:19:00] Business | Загружено: 98 | 113 мс
+[16:19:01] LoadHouses | Загружено 526 | 536 мс
+[16:19:01] 104 зон банд на карте загружено | 5 мс
+[16:19:01] Дата запуска: 01.10.2023 в 16:19
+[16:19:01] [connection] incoming connection: 172.234.49.146:59787 id: 0
+[16:19:01] [connection] incoming connection: 172.234.49.146:59788 id: 1
+[16:19:01] [connection] incoming connection: 172.234.49.146:59789 id: 2
+[16:19:01] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[16:19:01] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[16:19:01] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[16:19:09] [connection] 103.125.16.36:54807 requests connection cookie.
+[16:19:10] [connection] incoming connection: 103.125.16.36:54807 id: 3
+[16:19:11] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[16:19:24] [Angga_Ali] OnDialogResponse(3, 1, 1, -1, ANGGARA)
+[16:19:32] [Angga_Ali] OnDialogResponse(3, 3, 1, -1, ANGGARA)
+[16:21:31] [Angga_Ali] Command(3, close )
+[16:21:38] [chat] [Angga_Ali]: p
+[16:24:30] [part] Angga_Ali has left the server (3:0)
+[16:26:36] [connection] 103.125.16.36:45391 requests connection cookie.
+[16:26:37] [connection] incoming connection: 103.125.16.36:45391 id: 3
+[16:26:38] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[16:26:51] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[16:27:08] [part] Angga_Ali has left the server (3:0)
+[16:27:17] [connection] 103.125.16.36:41381 requests connection cookie.
+[16:27:18] [connection] incoming connection: 103.125.16.36:41381 id: 3
+[16:27:18] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[16:27:29] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[16:28:39] [part] Angga_Ali has left the server (3:0)
+[16:29:01] [connection] 103.125.16.36:53539 requests connection cookie.
+[16:29:02] [connection] incoming connection: 103.125.16.36:53539 id: 3
+[16:29:03] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[16:29:19] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[16:29:38] [Angga_Ali] Command(3, en )
+[16:29:43] [Angga_Ali] Command(3, engine )
+[16:29:46] [Angga_Ali] Command(3, help )
+[16:29:49] [Angga_Ali] OnDialogResponse(3, 690, 1, 1, [2] Р‘РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ)
+[16:29:57] [Angga_Ali] OnDialogResponse(3, 690, 1, 0, [1] Рћ РїСЂРѕРµРєС‚Рµ)
+[16:30:08] [Angga_Ali] OnDialogResponse(3, 690, 0, 9, [10] Р‘РёР·РЅРµСЃ Рё РђР—РЎ)
+[16:30:14] [Angga_Ali] Command(3, en )
+[16:30:31] [Angga_Ali] OnDialogResponse(3, 8900, 0, 0, [1] РџРѕР»РѕР¶РёС‚СЊ СЃСЂРµРґСЃС‚РІР° РЅР° Р±Р°РЅРє. СЃС‡С‘С‚)
+[16:34:30] [part] Angga_Ali has left the server (3:0)
+[17:00:52] PayDay
+[18:00:40] PayDay
+[19:00:30] PayDay
+[20:00:18] PayDay
+[21:00:07] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:11] filterscripts = ""  (string)
+[21:32:11] 
+[21:32:11] Server Plugins
+[21:32:11] --------------
+[21:32:11]  Loading plugin: crashdetect
+[21:32:11]   CrashDetect plugin 4.19.4
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: streamer
+[21:32:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: sscanf
+[21:32:11] 
+
+[21:32:11]  ===============================
+
+[21:32:11]       sscanf plugin loaded.     
+
+[21:32:11]          Version:  2.8.1        
+
+[21:32:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:11]  ===============================
+
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: TOTP
+[21:32:11] TOTP plugin v1.0.1 by Games loaded.
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: pawncmd
+[21:32:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: regex
+[21:32:11] 
+
+[21:32:11] ______________________________________
+
+[21:32:11]  Regular Expression Plugin v0.2.1 loaded
+[21:32:11] ______________________________________
+
+[21:32:11]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:32:11] ______________________________________
+
+[21:32:11]   Loaded.
+[21:32:11]  Loading plugin: mysql
+[21:32:11]  >> plugin.mysql: R41-4 successfully loaded.
+[21:32:11]   Loaded.
+[21:32:11]  Loaded 7 plugins.
+
+[21:32:11] 
+[21:32:11] Filterscripts
+[21:32:11] ---------------
+[21:32:11]   Loaded 0 filterscripts.
+
+[21:32:11] [Nex-AC] Загрузка античита прошла успешно
+[21:32:11] [Normative-Rp] Происходит загрузка игрового мода...
+[21:32:11] NPC поездов подключены
+[21:32:11] Подключение к базе данных выполнено
+[21:32:11] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[21:32:11] Number of vehicle models: 64
+[21:32:11] [connection] 172.234.49.146:64489 requests connection cookie.
+[21:32:11] Экономика загружена [0 мс]
+[21:32:11] 24 зон мафий на карте загружено | 0 мс
+[21:32:11] Семьи не загружены
+[21:32:11] [connection] 172.234.49.146:64490 requests connection cookie.
+[21:32:11] >> Шахтёрские склады загружены
+[21:32:11] Банки организаций загружены [2 мс]
+[21:32:11] [connection] 172.234.49.146:64491 requests connection cookie.
+[21:32:11] Склады банд загружены [4 мс]
+[21:32:11] Билборды загружены [30 шт.] [9 мс]
+[21:32:11] Загружено 20 заправочных станций
+[21:32:11] Мебель не загружена
+[21:32:11] Гаражи | Загружено 12 | 3 мс
+[21:32:11] Номера в отеле | Загружено: 36 | 4 мс
+[21:32:11] Квартиры | Загружено: 48 | 29 мс
+[21:32:12] Business | Загружено: 98 | 128 мс
+[21:32:12] LoadHouses | Загружено 526 | 531 мс
+[21:32:12] 104 зон банд на карте загружено | 7 мс
+[21:32:12] Дата запуска: 01.10.2023 в 21:32
+[21:32:12] [connection] incoming connection: 172.234.49.146:64489 id: 0
+[21:32:12] [connection] incoming connection: 172.234.49.146:64490 id: 1
+[21:32:12] [connection] incoming connection: 172.234.49.146:64491 id: 2
+[21:32:13] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[21:32:13] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[21:32:13] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[22:00:06] PayDay
+[23:00:54] PayDay
+[00:00:42] PayDay
+[01:00:30] PayDay
+[02:00:19] PayDay
+[03:00:07] PayDay
+[03:00:07] Ежедневный процесс перезагрузки сервера запущен
+[03:00:07] Перезагрузка через 2 минуты...
+[03:02:18] Перезагрузка сервера...
+[03:02:33] NPC [Andrey_Ringo] disconnected (reason: )
+[03:02:33] NPC [Tony_Barrera] disconnected (reason: )
+[03:02:33] NPC [El_Capone] disconnected (reason: )
+[03:02:33] [connection] 172.234.49.146:50666 requests connection cookie.
+[03:02:33] [connection] 172.234.49.146:50667 requests connection cookie.
+[03:02:33] [connection] 172.234.49.146:50668 requests connection cookie.
+[03:02:34] [connection] incoming connection: 172.234.49.146:50666 id: 3
+[03:02:34] [connection] incoming connection: 172.234.49.146:50667 id: 4
+[03:02:34] [connection] incoming connection: 172.234.49.146:50668 id: 5
+[03:02:45] [Nex-AC] Загрузка античита прошла успешно
+[03:02:45] [Normative-Rp] Происходит загрузка игрового мода...
+[03:02:45] NPC поездов подключены
+[03:02:45] Подключение к базе данных выполнено
+[03:02:45] [connection] 172.234.49.146:50669 requests connection cookie.
+[03:02:45] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[03:02:45] Number of vehicle models: 64
+[03:02:45] Экономика загружена [0 мс]
+[03:02:45] 24 зон мафий на карте загружено | 0 мс
+[03:02:45] Семьи не загружены
+[03:02:45] >> Шахтёрские склады загружены
+[03:02:45] [connection] 172.234.49.146:50670 requests connection cookie.
+[03:02:45] [connection] 172.234.49.146:50671 requests connection cookie.
+[03:02:45] Банки организаций загружены [1 мс]
+[03:02:45] Склады банд загружены [2 мс]
+[03:02:45] Билборды загружены [30 шт.] [7 мс]
+[03:02:45] Загружено 20 заправочных станций
+[03:02:45] Мебель не загружена
+[03:02:45] Гаражи | Загружено 12 | 3 мс
+[03:02:45] Номера в отеле | Загружено: 36 | 3 мс
+[03:02:45] Квартиры | Загружено: 48 | 17 мс
+[03:02:45] Business | Загружено: 98 | 100 мс
+[03:02:46] LoadHouses | Загружено 526 | 473 мс
+[03:02:46] 104 зон банд на карте загружено | 4 мс
+[03:02:46] Дата запуска: 02.10.2023 в 03:02
+[03:02:46] [connection] incoming connection: 172.234.49.146:50669 id: 3
+[03:02:46] [connection] incoming connection: 172.234.49.146:50671 id: 4
+[03:02:46] [connection] incoming connection: 172.234.49.146:50670 id: 5
+[04:00:33] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:47:07] filterscripts = ""  (string)
+[11:47:07] 
+[11:47:07] Server Plugins
+[11:47:07] --------------
+[11:47:07]  Loading plugin: crashdetect
+[11:47:07]   CrashDetect plugin 4.19.4
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: streamer
+[11:47:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: sscanf
+[11:47:07] 
+
+[11:47:07]  ===============================
+
+[11:47:07]       sscanf plugin loaded.     
+
+[11:47:07]          Version:  2.8.1        
+
+[11:47:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:47:07]  ===============================
+
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: TOTP
+[11:47:07] TOTP plugin v1.0.1 by Games loaded.
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: pawncmd
+[11:47:07] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: regex
+[11:47:07] 
+
+[11:47:07] ______________________________________
+
+[11:47:07]  Regular Expression Plugin v0.2.1 loaded
+[11:47:07] ______________________________________
+
+[11:47:07]  By: Fro (c) Copyright <TBG> 2009-2011
+[11:47:07] ______________________________________
+
+[11:47:07]   Loaded.
+[11:47:07]  Loading plugin: mysql
+[11:47:07]  >> plugin.mysql: R41-4 successfully loaded.
+[11:47:07]   Loaded.
+[11:47:07]  Loaded 7 plugins.
+
+[11:47:07] 
+[11:47:07] Filterscripts
+[11:47:07] ---------------
+[11:47:07]   Loaded 0 filterscripts.
+
+[11:47:07] [Nex-AC] Загрузка античита прошла успешно
+[11:47:07] [Normative-Rp] Происходит загрузка игрового мода...
+[11:47:07] NPC поездов подключены
+[11:47:07] Подключение к базе данных выполнено
+[11:47:07] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[11:47:07] Number of vehicle models: 64
+[11:47:07] Экономика загружена [0 мс]
+[11:47:07] 24 зон мафий на карте загружено | 0 мс
+[11:47:07] Семьи не загружены
+[11:47:07] [connection] 172.234.49.146:57907 requests connection cookie.
+[11:47:07] >> Шахтёрские склады загружены
+[11:47:07] [connection] 172.234.49.146:57908 requests connection cookie.
+[11:47:07] [connection] 172.234.49.146:57909 requests connection cookie.
+[11:47:07] Банки организаций загружены [1 мс]
+[11:47:07] Склады банд загружены [2 мс]
+[11:47:07] Билборды загружены [30 шт.] [7 мс]
+[11:47:07] Загружено 20 заправочных станций
+[11:47:07] Мебель не загружена
+[11:47:07] Гаражи | Загружено 12 | 4 мс
+[11:47:07] Номера в отеле | Загружено: 36 | 3 мс
+[11:47:07] Квартиры | Загружено: 48 | 20 мс
+[11:47:08] Business | Загружено: 98 | 111 мс
+[11:47:08] LoadHouses | Загружено 526 | 483 мс
+[11:47:08] 104 зон банд на карте загружено | 4 мс
+[11:47:08] Дата запуска: 02.10.2023 в 11:47
+[11:47:08] [connection] incoming connection: 172.234.49.146:57907 id: 0
+[11:47:08] [connection] incoming connection: 172.234.49.146:57908 id: 1
+[11:47:08] [connection] incoming connection: 172.234.49.146:57909 id: 2
+[11:47:09] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[11:47:09] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[11:47:09] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[11:47:32] [connection] 182.0.235.194:40361 requests connection cookie.
+[11:47:33] [connection] incoming connection: 182.0.235.194:40361 id: 3
+[11:47:33] [join] Angga_Ali has joined the server (3:182.0.235.194)
+[11:47:51] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[11:48:07] [chat] [Angga_Ali]: p
+[11:48:11] [Angga_Ali] Command(3, gps )
+[11:48:15] [Angga_Ali] OnDialogResponse(3, 7626, 1, 0, [1] Tempat umum)
+[11:48:20] [Angga_Ali] OnDialogResponse(3, 7627, 0, 0, [1]Kompleks apartemen)
+[11:48:23] [Angga_Ali] OnDialogResponse(3, 7626, 1, 1, [2] Organisasi pemerintah)
+[11:48:26] [Angga_Ali] OnDialogResponse(3, 7629, 0, 0, [1] Departemen Kehakiman Los Santos)
+[11:48:27] [Angga_Ali] OnDialogResponse(3, 7626, 1, 4, [5] Hotel)
+[11:48:29] [Angga_Ali] OnDialogResponse(3, 8609, 0, 0, [1] Central Hotel LS)
+[11:48:31] [Angga_Ali] OnDialogResponse(3, 7626, 1, 5, [6] Hiburan)
+[11:48:32] [Angga_Ali] OnDialogResponse(3, 8603, 0, 0, [1] РљР°Р·РёРЅРѕ В«4 РґСЂР°РєРѕРЅР°В»)
+[11:48:32] [Angga_Ali] OnDialogResponse(3, 7626, 0, 0, [1] Tempat umum)
+[11:48:59] [Angga_Ali] Command(3, en )
+[11:49:04] [Angga_Ali] Command(3, engine )
+[11:51:20] [Nex-AC] [Angga_Ali] OnCheatDetected(3, , 0, 5)
+[11:51:21] [Nex-AC] [Angga_Ali] OnCheatDetected(3, , 0, 5)
+[11:51:22] [Nex-AC] [Angga_Ali] OnCheatDetected(3, , 0, 5)
+[11:51:24] [Nex-AC] [Angga_Ali] OnCheatDetected(3, , 0, 5)
+[11:51:24] [Nex-AC] [Angga_Ali] OnCheatDetected(3, , 0, 5)
+[11:52:18] [Angga_Ali] OnDialogResponse(3, 69, 0, 12, [13] Р‘Р°Р»Р»РѕРЅС‡РёРє СЃ РєСЂР°СЃРєРѕР№)
+[11:52:20] [Angga_Ali] Command(3, inv )
+[11:52:30] [Angga_Ali] OnDialogResponse(3, 119, 0, 0, [1] РЎС‚Р°С‚РёСЃС‚РёРєР° Р°РєРєР°СѓРЅС‚Р°)
+[11:55:52] [part] Angga_Ali has left the server (3:0)
+[12:00:05] PayDay
+[13:00:53] PayDay
+[14:00:40] PayDay
+[15:00:29] PayDay
+[16:00:16] PayDay
+[17:00:04] PayDay
+[18:00:51] PayDay
+[19:00:40] PayDay
+[20:00:28] PayDay
+[21:00:16] PayDay
+[22:00:04] PayDay
+[23:00:51] PayDay
+[00:00:39] PayDay
+[01:00:26] PayDay
+[02:00:13] PayDay
+[03:00:00] PayDay
+[03:00:00] Ежедневный процесс перезагрузки сервера запущен
+[03:00:00] Перезагрузка через 2 минуты...
+[03:02:12] Перезагрузка сервера...
+[03:02:26] NPC [Andrey_Ringo] disconnected (reason: )
+[03:02:27] NPC [Tony_Barrera] disconnected (reason: )
+[03:02:27] NPC [El_Capone] disconnected (reason: )
+[03:02:27] [connection] 172.234.49.146:61539 requests connection cookie.
+[03:02:27] [connection] 172.234.49.146:61538 requests connection cookie.
+[03:02:27] [connection] 172.234.49.146:61540 requests connection cookie.
+[03:02:28] [connection] incoming connection: 172.234.49.146:61539 id: 3
+[03:02:28] [connection] incoming connection: 172.234.49.146:61538 id: 4
+[03:02:28] [connection] incoming connection: 172.234.49.146:61540 id: 5
+[03:02:39] [Nex-AC] Загрузка античита прошла успешно
+[03:02:39] [Normative-Rp] Происходит загрузка игрового мода...
+[03:02:39] NPC поездов подключены
+[03:02:39] Подключение к базе данных выполнено
+[03:02:39] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[03:02:39] Number of vehicle models: 64
+[03:02:39] Экономика загружена [0 мс]
+[03:02:39] 24 зон мафий на карте загружено | 0 мс
+[03:02:39] Семьи не загружены
+[03:02:39] >> Шахтёрские склады загружены
+[03:02:39] Банки организаций загружены [2 мс]
+[03:02:39] [connection] 172.234.49.146:61541 requests connection cookie.
+[03:02:39] [connection] 172.234.49.146:61542 requests connection cookie.
+[03:02:39] [connection] 172.234.49.146:61543 requests connection cookie.
+[03:02:39] Склады банд загружены [2 мс]
+[03:02:39] Билборды загружены [30 шт.] [6 мс]
+[03:02:39] Загружено 20 заправочных станций
+[03:02:39] Мебель не загружена
+[03:02:39] Гаражи | Загружено 12 | 3 мс
+[03:02:39] Номера в отеле | Загружено: 36 | 4 мс
+[03:02:39] Квартиры | Загружено: 48 | 18 мс
+[03:02:39] Business | Загружено: 98 | 101 мс
+[03:02:39] LoadHouses | Загружено 526 | 464 мс
+[03:02:39] 104 зон банд на карте загружено | 5 мс
+[03:02:39] Дата запуска: 03.10.2023 в 03:02
+[03:02:40] [connection] incoming connection: 172.234.49.146:61541 id: 3
+[03:02:40] [connection] incoming connection: 172.234.49.146:61542 id: 4
+[03:02:40] [connection] incoming connection: 172.234.49.146:61543 id: 5
+[04:00:26] PayDay
+[05:00:12] PayDay
+[06:00:58] PayDay
+[07:00:45] PayDay
+[08:00:32] PayDay
+[09:00:19] PayDay
+[10:00:07] PayDay
+[11:00:55] PayDay
+[12:00:43] PayDay
+[13:00:31] PayDay
+[14:00:20] PayDay
+[15:00:09] PayDay
+[16:00:57] PayDay
+[17:00:46] PayDay
+[18:00:34] PayDay
+[19:00:22] PayDay
+[20:00:09] PayDay
+[21:00:57] PayDay
+[22:00:44] PayDay
+[23:00:32] PayDay
+[00:00:20] PayDay
+[01:00:07] PayDay
+[02:00:54] PayDay
+[03:00:41] PayDay
+[03:00:41] Ежедневный процесс перезагрузки сервера запущен
+[03:00:41] Перезагрузка через 2 минуты...
+[03:02:52] Перезагрузка сервера...
+[03:03:07] NPC [Andrey_Ringo] disconnected (reason: )
+[03:03:07] NPC [Tony_Barrera] disconnected (reason: )
+[03:03:07] NPC [El_Capone] disconnected (reason: )
+[03:03:07] [connection] 172.234.49.146:50070 requests connection cookie.
+[03:03:07] [connection] 172.234.49.146:50071 requests connection cookie.
+[03:03:07] [connection] 172.234.49.146:50072 requests connection cookie.
+[03:03:08] [connection] incoming connection: 172.234.49.146:50071 id: 3
+[03:03:08] [connection] incoming connection: 172.234.49.146:50070 id: 4
+[03:03:08] [connection] incoming connection: 172.234.49.146:50072 id: 5
+[03:03:19] [Nex-AC] Загрузка античита прошла успешно
+[03:03:19] [Normative-Rp] Происходит загрузка игрового мода...
+[03:03:19] NPC поездов подключены
+[03:03:19] Подключение к базе данных выполнено
+[03:03:19] [connection] 172.234.49.146:50073 requests connection cookie.
+[03:03:19] [connection] 172.234.49.146:50074 requests connection cookie.
+[03:03:19] [connection] 172.234.49.146:50075 requests connection cookie.
+[03:03:19] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[03:03:19] Number of vehicle models: 64
+[03:03:19] Экономика загружена [0 мс]
+[03:03:19] 24 зон мафий на карте загружено | 0 мс
+[03:03:19] Семьи не загружены
+[03:03:19] >> Шахтёрские склады загружены
+[03:03:19] Банки организаций загружены [2 мс]
+[03:03:19] Склады банд загружены [2 мс]
+[03:03:19] Билборды загружены [30 шт.] [7 мс]
+[03:03:19] Загружено 20 заправочных станций
+[03:03:19] Мебель не загружена
+[03:03:19] Гаражи | Загружено 12 | 4 мс
+[03:03:19] Номера в отеле | Загружено: 36 | 4 мс
+[03:03:19] Квартиры | Загружено: 48 | 17 мс
+[03:03:19] Business | Загружено: 98 | 101 мс
+[03:03:20] LoadHouses | Загружено 526 | 558 мс
+[03:03:20] 104 зон банд на карте загружено | 4 мс
+[03:03:20] Дата запуска: 04.10.2023 в 03:03
+[03:03:20] [connection] incoming connection: 172.234.49.146:50074 id: 3
+[03:03:20] [connection] incoming connection: 172.234.49.146:50073 id: 4
+[03:03:20] [connection] incoming connection: 172.234.49.146:50075 id: 5
+[04:00:07] PayDay
+[05:00:53] PayDay
+[06:00:39] PayDay
+[07:00:25] PayDay
+[08:00:12] PayDay
+[09:00:00] PayDay
+[10:00:48] PayDay
+[11:00:35] PayDay
+[12:00:23] PayDay
+[13:00:11] PayDay
+[14:00:00] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:36:33] filterscripts = ""  (string)
+[09:36:33] 
+[09:36:33] Server Plugins
+[09:36:33] --------------
+[09:36:33]  Loading plugin: crashdetect
+[09:36:33]   CrashDetect plugin 4.19.4
+[09:36:33]   Loaded.
+[09:36:33]  Loading plugin: streamer
+[09:36:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:36:33]   Loaded.
+[09:36:33]  Loading plugin: sscanf
+[09:36:33] 
+
+[09:36:33]  ===============================
+
+[09:36:33]       sscanf plugin loaded.     
+
+[09:36:33]          Version:  2.8.1        
+
+[09:36:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:36:33]  ===============================
+
+[09:36:33]   Loaded.
+[09:36:33]  Loading plugin: TOTP
+[09:36:33] TOTP plugin v1.0.1 by Games loaded.
+[09:36:33]   Loaded.
+[09:36:33]  Loading plugin: pawncmd
+[09:36:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:36:33]   Loaded.
+[09:36:33]  Loading plugin: regex
+[09:36:33] 
+
+[09:36:33] ______________________________________
+
+[09:36:34]  Regular Expression Plugin v0.2.1 loaded
+[09:36:34] ______________________________________
+
+[09:36:34]  By: Fro (c) Copyright <TBG> 2009-2011
+[09:36:34] ______________________________________
+
+[09:36:34]   Loaded.
+[09:36:34]  Loading plugin: mysql
+[09:36:34]  >> plugin.mysql: R41-4 successfully loaded.
+[09:36:34]   Loaded.
+[09:36:34]  Loaded 7 plugins.
+
+[09:36:34] 
+[09:36:34] Filterscripts
+[09:36:34] ---------------
+[09:36:34]   Loaded 0 filterscripts.
+
+[09:36:34] [Nex-AC] Загрузка античита прошла успешно
+[09:36:34] [Normative-Rp] Происходит загрузка игрового мода...
+[09:36:34] NPC поездов подключены
+[09:36:34] Подключение к базе данных выполнено
+[09:36:34] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[09:36:35] Number of vehicle models: 64
+[09:36:35] [connection] 172.234.49.146:62248 requests connection cookie.
+[09:36:35] Экономика загружена [0 мс]
+[09:36:35] 24 зон мафий на карте загружено | 0 мс
+[09:36:35] [connection] 172.234.49.146:62249 requests connection cookie.
+[09:36:35] Семьи не загружены
+[09:36:35] >> Шахтёрские склады загружены
+[09:36:35] [connection] 172.234.49.146:62250 requests connection cookie.
+[09:36:35] Банки организаций загружены [1 мс]
+[09:36:35] Склады банд загружены [4 мс]
+[09:36:35] Билборды загружены [30 шт.] [8 мс]
+[09:36:35] Загружено 20 заправочных станций
+[09:36:35] Мебель не загружена
+[09:36:35] Гаражи | Загружено 12 | 6 мс
+[09:36:35] Номера в отеле | Загружено: 36 | 11 мс
+[09:36:35] Квартиры | Загружено: 48 | 24 мс
+[09:36:35] Business | Загружено: 98 | 121 мс
+[09:36:35] LoadHouses | Загружено 526 | 491 мс
+[09:36:35] 104 зон банд на карте загружено | 5 мс
+[09:36:35] Дата запуска: 05.10.2023 в 09:36
+[09:36:36] [connection] incoming connection: 172.234.49.146:62248 id: 0
+[09:36:36] [connection] incoming connection: 172.234.49.146:62249 id: 1
+[09:36:36] [connection] incoming connection: 172.234.49.146:62250 id: 2
+[09:36:36] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[09:36:36] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[09:36:36] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:39:14] filterscripts = ""  (string)
+[09:39:14] 
+[09:39:14] Server Plugins
+[09:39:14] --------------
+[09:39:14]  Loading plugin: crashdetect
+[09:39:14]   CrashDetect plugin 4.19.4
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: streamer
+[09:39:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: sscanf
+[09:39:14] 
+
+[09:39:14]  ===============================
+
+[09:39:14]       sscanf plugin loaded.     
+
+[09:39:14]          Version:  2.8.1        
+
+[09:39:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:39:14]  ===============================
+
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: TOTP
+[09:39:14] TOTP plugin v1.0.1 by Games loaded.
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: pawncmd
+[09:39:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: regex
+[09:39:14] 
+
+[09:39:14] ______________________________________
+
+[09:39:14]  Regular Expression Plugin v0.2.1 loaded
+[09:39:14] ______________________________________
+
+[09:39:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[09:39:14] ______________________________________
+
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: mysql
+[09:39:14]  >> plugin.mysql: R41-4 successfully loaded.
+[09:39:14]   Loaded.
+[09:39:14]  Loaded 7 plugins.
+
+[09:39:14] 
+[09:39:14] Filterscripts
+[09:39:14] ---------------
+[09:39:14]   Loaded 0 filterscripts.
+
+[09:39:14] [Nex-AC] Загрузка античита прошла успешно
+[09:39:14] [Normative-Rp] Происходит загрузка игрового мода...
+[09:39:15] NPC поездов подключены
+[09:39:15] Подключение к базе данных выполнено
+[09:39:15] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[09:39:15] Number of vehicle models: 64
+[09:39:15] Экономика загружена [0 мс]
+[09:39:15] 24 зон мафий на карте загружено | 0 мс
+[09:39:15] Семьи не загружены
+[09:39:15] >> Шахтёрские склады загружены
+[09:39:15] [connection] 172.234.49.146:64776 requests connection cookie.
+[09:39:15] [connection] 172.234.49.146:64778 requests connection cookie.
+[09:39:15] [connection] 172.234.49.146:64777 requests connection cookie.
+[09:39:15] Банки организаций загружены [1 мс]
+[09:39:15] Склады банд загружены [2 мс]
+[09:39:15] Билборды загружены [30 шт.] [7 мс]
+[09:39:15] Загружено 20 заправочных станций
+[09:39:15] Мебель не загружена
+[09:39:15] Гаражи | Загружено 12 | 3 мс
+[09:39:15] Номера в отеле | Загружено: 36 | 4 мс
+[09:39:15] Квартиры | Загружено: 48 | 20 мс
+[09:39:15] Business | Загружено: 98 | 101 мс
+[09:39:15] LoadHouses | Загружено 526 | 467 мс
+[09:39:15] 104 зон банд на карте загружено | 5 мс
+[09:39:15] Дата запуска: 05.10.2023 в 09:39
+[09:39:16] [connection] incoming connection: 172.234.49.146:64778 id: 0
+[09:39:16] [connection] incoming connection: 172.234.49.146:64777 id: 1
+[09:39:16] [connection] incoming connection: 172.234.49.146:64776 id: 2
+[09:39:16] [npc:join] Andrey_Ringo has joined the server (2:172.234.49.146)
+[09:39:16] [npc:join] El_Capone has joined the server (0:172.234.49.146)
+[09:39:16] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[09:39:44] [connection] 114.124.246.72:44633 requests connection cookie.
+[09:39:45] [connection] incoming connection: 114.124.246.72:44633 id: 3
+[09:39:46] [join] Angga_Ali has joined the server (3:114.124.246.72)
+[09:40:01] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[10:00:11] PayDay
+[10:01:14] [part] Angga_Ali has left the server (3:0)
+[11:00:59] PayDay
+[12:00:46] PayDay
+[13:00:34] PayDay
+[14:00:22] PayDay
+[15:00:10] PayDay
+[16:00:58] PayDay
+[17:00:46] PayDay
+[18:00:34] PayDay
+[19:00:22] PayDay
+[20:00:11] PayDay
+[21:00:59] PayDay
+[22:00:48] PayDay
+[23:00:36] PayDay
+[00:00:24] PayDay
+[01:00:11] PayDay
+[02:00:57] PayDay
+[03:00:42] PayDay
+[03:00:42] Ежедневный процесс перезагрузки сервера запущен
+[03:00:42] Перезагрузка через 2 минуты...
+[03:02:54] Перезагрузка сервера...
+[03:03:08] NPC [El_Capone] disconnected (reason: )
+[03:03:08] NPC [Tony_Barrera] disconnected (reason: )
+[03:03:08] NPC [Andrey_Ringo] disconnected (reason: )
+[03:03:09] [connection] 172.234.49.146:52146 requests connection cookie.
+[03:03:09] [connection] 172.234.49.146:52147 requests connection cookie.
+[03:03:09] [connection] 172.234.49.146:52148 requests connection cookie.
+[03:03:10] [connection] incoming connection: 172.234.49.146:52146 id: 3
+[03:03:10] [connection] incoming connection: 172.234.49.146:52147 id: 4
+[03:03:10] [connection] incoming connection: 172.234.49.146:52148 id: 5
+[03:03:20] [Nex-AC] Загрузка античита прошла успешно
+[03:03:20] [Normative-Rp] Происходит загрузка игрового мода...
+[03:03:20] NPC поездов подключены
+[03:03:20] Подключение к базе данных выполнено
+[03:03:20] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[03:03:20] Number of vehicle models: 64
+[03:03:20] Экономика загружена [0 мс]
+[03:03:20] 24 зон мафий на карте загружено | 0 мс
+[03:03:20] Семьи не загружены
+[03:03:20] >> Шахтёрские склады загружены
+[03:03:20] Банки организаций загружены [1 мс]
+[03:03:21] Склады банд загружены [2 мс]
+[03:03:21] Билборды загружены [30 шт.] [6 мс]
+[03:03:21] [connection] 172.234.49.146:52150 requests connection cookie.
+[03:03:21] [connection] 172.234.49.146:52149 requests connection cookie.
+[03:03:21] [connection] 172.234.49.146:52151 requests connection cookie.
+[03:03:21] Загружено 20 заправочных станций
+[03:03:21] Мебель не загружена
+[03:03:21] Гаражи | Загружено 12 | 2 мс
+[03:03:21] Номера в отеле | Загружено: 36 | 3 мс
+[03:03:21] Квартиры | Загружено: 48 | 17 мс
+[03:03:21] Business | Загружено: 98 | 102 мс
+[03:03:21] LoadHouses | Загружено 526 | 446 мс
+[03:03:21] 104 зон банд на карте загружено | 4 мс
+[03:03:21] Дата запуска: 06.10.2023 в 03:03
+[03:03:22] [connection] incoming connection: 172.234.49.146:52151 id: 3
+[03:03:22] [connection] incoming connection: 172.234.49.146:52150 id: 4
+[03:03:22] [connection] incoming connection: 172.234.49.146:52149 id: 5
+[04:00:06] PayDay
+[05:00:51] PayDay
+[06:00:36] PayDay
+[07:00:23] PayDay
+[08:00:09] PayDay
+[09:00:55] PayDay
+[10:00:41] PayDay
+[11:00:28] PayDay
+[12:00:15] PayDay
+[13:00:02] PayDay
+[14:00:50] PayDay
+[15:00:36] PayDay
+[16:00:24] PayDay
+[17:00:10] PayDay
+[18:00:57] PayDay
+[19:00:45] PayDay
+[20:00:33] PayDay
+[21:00:22] PayDay
+[22:00:10] PayDay
+[23:00:58] PayDay
+[00:00:45] PayDay
+[01:00:31] PayDay
+[02:00:17] PayDay
+[03:00:03] PayDay
+[03:00:03] Ежедневный процесс перезагрузки сервера запущен
+[03:00:03] Перезагрузка через 2 минуты...
+[03:02:15] Перезагрузка сервера...
+[03:02:29] NPC [El_Capone] disconnected (reason: )
+[03:02:29] NPC [Tony_Barrera] disconnected (reason: )
+[03:02:29] NPC [Andrey_Ringo] disconnected (reason: )
+[03:02:29] [connection] 172.234.49.146:62690 requests connection cookie.
+[03:02:29] [connection] 172.234.49.146:62691 requests connection cookie.
+[03:02:29] [connection] 172.234.49.146:62692 requests connection cookie.
+[03:02:30] [connection] incoming connection: 172.234.49.146:62690 id: 3
+[03:02:30] [connection] incoming connection: 172.234.49.146:62691 id: 4
+[03:02:30] [connection] incoming connection: 172.234.49.146:62692 id: 5
+[03:02:41] [Nex-AC] Загрузка античита прошла успешно
+[03:02:41] [Normative-Rp] Происходит загрузка игрового мода...
+[03:02:41] NPC поездов подключены
+[03:02:41] Подключение к базе данных выполнено
+[03:02:41] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[03:02:41] Number of vehicle models: 64
+[03:02:41] Экономика загружена [0 мс]
+[03:02:41] 24 зон мафий на карте загружено | 0 мс
+[03:02:41] Семьи не загружены
+[03:02:41] >> Шахтёрские склады загружены
+[03:02:41] [connection] 172.234.49.146:62693 requests connection cookie.
+[03:02:41] [connection] 172.234.49.146:62694 requests connection cookie.
+[03:02:41] Банки организаций загружены [1 мс]
+[03:02:41] [connection] 172.234.49.146:62695 requests connection cookie.
+[03:02:41] Склады банд загружены [2 мс]
+[03:02:41] Билборды загружены [30 шт.] [6 мс]
+[03:02:41] Загружено 20 заправочных станций
+[03:02:41] Мебель не загружена
+[03:02:41] Гаражи | Загружено 12 | 3 мс
+[03:02:41] Номера в отеле | Загружено: 36 | 3 мс
+[03:02:41] Квартиры | Загружено: 48 | 17 мс
+[03:02:42] Business | Загружено: 98 | 105 мс
+[03:02:42] LoadHouses | Загружено 526 | 447 мс
+[03:02:42] 104 зон банд на карте загружено | 4 мс
+[03:02:42] Дата запуска: 07.10.2023 в 03:02
+[03:02:42] [connection] incoming connection: 172.234.49.146:62694 id: 3
+[03:02:42] [connection] incoming connection: 172.234.49.146:62693 id: 4
+[03:02:42] [connection] incoming connection: 172.234.49.146:62695 id: 5
+[04:00:27] PayDay
+[05:00:12] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:41:44] filterscripts = ""  (string)
+[12:41:44] 
+[12:41:44] Server Plugins
+[12:41:44] --------------
+[12:41:44]  Loading plugin: crashdetect
+[12:41:44]   CrashDetect plugin 4.19.4
+[12:41:44]   Loaded.
+[12:41:44]  Loading plugin: streamer
+[12:41:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:41:44]   Loaded.
+[12:41:44]  Loading plugin: sscanf
+[12:41:44] 
+
+[12:41:44]  ===============================
+
+[12:41:44]       sscanf plugin loaded.     
+
+[12:41:44]          Version:  2.8.1        
+
+[12:41:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:41:44]  ===============================
+
+[12:41:44]   Loaded.
+[12:41:44]  Loading plugin: TOTP
+[12:41:44] TOTP plugin v1.0.1 by Games loaded.
+[12:41:44]   Loaded.
+[12:41:44]  Loading plugin: pawncmd
+[12:41:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:41:45]   Loaded.
+[12:41:45]  Loading plugin: regex
+[12:41:45] 
+
+[12:41:45] ______________________________________
+
+[12:41:45]  Regular Expression Plugin v0.2.1 loaded
+[12:41:45] ______________________________________
+
+[12:41:45]  By: Fro (c) Copyright <TBG> 2009-2011
+[12:41:45] ______________________________________
+
+[12:41:45]   Loaded.
+[12:41:45]  Loading plugin: mysql
+[12:41:45]  >> plugin.mysql: R41-4 successfully loaded.
+[12:41:45]   Loaded.
+[12:41:45]  Loaded 7 plugins.
+
+[12:41:45] 
+[12:41:45] Filterscripts
+[12:41:45] ---------------
+[12:41:45]   Loaded 0 filterscripts.
+
+[12:41:45] [Nex-AC] Загрузка античита прошла успешно
+[12:41:45] [Normative-Rp] Происходит загрузка игрового мода...
+[12:41:45] NPC поездов подключены
+[12:41:45] Подключение к базе данных выполнено
+[12:41:46] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[12:41:46] [connection] 172.234.49.146:64551 requests connection cookie.
+[12:41:46] Number of vehicle models: 64
+[12:41:46] Экономика загружена [0 мс]
+[12:41:46] 24 зон мафий на карте загружено | 0 мс
+[12:41:46] [connection] 172.234.49.146:64552 requests connection cookie.
+[12:41:46] Семьи не загружены
+[12:41:46] >> Шахтёрские склады загружены
+[12:41:46] Банки организаций загружены [2 мс]
+[12:41:46] [connection] 172.234.49.146:64553 requests connection cookie.
+[12:41:46] Склады банд загружены [2 мс]
+[12:41:46] Билборды загружены [30 шт.] [11 мс]
+[12:41:46] Загружено 20 заправочных станций
+[12:41:46] Мебель не загружена
+[12:41:46] Гаражи | Загружено 12 | 4 мс
+[12:41:46] Номера в отеле | Загружено: 36 | 4 мс
+[12:41:46] Квартиры | Загружено: 48 | 28 мс
+[12:41:46] Business | Загружено: 98 | 179 мс
+[12:41:47] LoadHouses | Загружено 526 | 707 мс
+[12:41:47] [connection] incoming connection: 172.234.49.146:64551 id: 0
+[12:41:47] [connection] incoming connection: 172.234.49.146:64552 id: 1
+[12:41:47] [connection] incoming connection: 172.234.49.146:64553 id: 2
+[12:41:47] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[12:41:47] 104 зон банд на карте загружено | 5 мс
+[12:41:47] Дата запуска: 07.10.2023 в 12:41
+[12:41:47] [npc:join] El_Capone has joined the server (1:172.234.49.146)
+[12:41:47] [npc:join] Tony_Barrera has joined the server (2:172.234.49.146)
+[12:42:18] [connection] 103.125.16.36:39780 requests connection cookie.
+[12:42:19] [connection] incoming connection: 103.125.16.36:39780 id: 3
+[12:42:20] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[12:42:35] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[12:42:45] [Angga_Ali] Command(3, phone )
+[12:42:53] [Angga_Ali] Command(3, ahelp )
+[12:42:59] [Angga_Ali] Command(3, aduty )
+[12:43:03] [Angga_Ali] Command(3, duty )
+[12:43:11] [Angga_Ali] Command(3, givecash )
+[12:43:14] [Angga_Ali] Command(3, givemoney )
+[12:43:38] [Angga_Ali] Command(3, alogin )
+[12:44:15] [Angga_Ali] OnDialogResponse(3, 1227, 1, -1, 193345)
+[12:44:19] [Angga_Ali] Command(3, ahelp )
+[12:44:38] [Angga_Ali] Command(3, set )
+[12:44:43] [Angga_Ali] Command(3, setmoney )
+[12:45:52] [Angga_Ali] Command(3, givephone )
+[12:46:00] [Angga_Ali] Command(3, givephone 3)
+[12:47:35] [Angga_Ali] Command(3, money )
+[12:47:39] [Angga_Ali] Command(3, money 3 1000)
+[12:47:43] [Angga_Ali] Command(3, money 3)
+[12:53:26] [part] Angga_Ali has left the server (3:0)
+[13:00:42] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:16:06] filterscripts = ""  (string)
+[13:16:06] 
+[13:16:06] Server Plugins
+[13:16:06] --------------
+[13:16:06]  Loading plugin: crashdetect
+[13:16:06]   CrashDetect plugin 4.19.4
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: streamer
+[13:16:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: sscanf
+[13:16:06] 
+
+[13:16:06]  ===============================
+
+[13:16:06]       sscanf plugin loaded.     
+
+[13:16:06]          Version:  2.8.1        
+
+[13:16:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:16:06]  ===============================
+
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: TOTP
+[13:16:06] TOTP plugin v1.0.1 by Games loaded.
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: pawncmd
+[13:16:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: regex
+[13:16:06] 
+
+[13:16:06] ______________________________________
+
+[13:16:06]  Regular Expression Plugin v0.2.1 loaded
+[13:16:06] ______________________________________
+
+[13:16:06]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:16:06] ______________________________________
+
+[13:16:06]   Loaded.
+[13:16:06]  Loading plugin: mysql
+[13:16:06]  >> plugin.mysql: R41-4 successfully loaded.
+[13:16:06]   Loaded.
+[13:16:06]  Loaded 7 plugins.
+
+[13:16:06] I couldn't load any gamemode scripts. Please verify your server.cfg
+[13:16:06] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:18:03] filterscripts = ""  (string)
+[13:18:03] 
+[13:18:03] Server Plugins
+[13:18:03] --------------
+[13:18:03]  Loading plugin: crashdetect
+[13:18:03]   CrashDetect plugin 4.19.4
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: streamer
+[13:18:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: sscanf
+[13:18:03] 
+
+[13:18:03]  ===============================
+
+[13:18:03]       sscanf plugin loaded.     
+
+[13:18:03]          Version:  2.8.1        
+
+[13:18:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:18:03]  ===============================
+
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: TOTP
+[13:18:03] TOTP plugin v1.0.1 by Games loaded.
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: pawncmd
+[13:18:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: regex
+[13:18:03] 
+
+[13:18:03] ______________________________________
+
+[13:18:03]  Regular Expression Plugin v0.2.1 loaded
+[13:18:03] ______________________________________
+
+[13:18:03]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:18:03] ______________________________________
+
+[13:18:03]   Loaded.
+[13:18:03]  Loading plugin: mysql
+[13:18:03]  >> plugin.mysql: R41-4 successfully loaded.
+[13:18:03]   Loaded.
+[13:18:03]  Loaded 7 plugins.
+
+[13:18:03] 
+[13:18:03] Filterscripts
+[13:18:03] ---------------
+[13:18:03]   Loaded 0 filterscripts.
+
+[13:18:03] [Nex-AC] Загрузка античита прошла успешно
+[13:18:03] [Normative-Rp] Происходит загрузка игрового мода...
+[13:18:03] NPC поездов подключены
+[13:18:03] Подключение к базе данных выполнено
+[13:18:03] [connection] 172.234.49.146:62581 requests connection cookie.
+[13:18:03] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[13:18:03] Number of vehicle models: 64
+[13:18:03] [connection] 172.234.49.146:62582 requests connection cookie.
+[13:18:03] Экономика загружена [0 мс]
+[13:18:03] [connection] 172.234.49.146:62583 requests connection cookie.
+[13:18:03] 24 зон мафий на карте загружено | 0 мс
+[13:18:03] Семьи не загружены
+[13:18:03] >> Шахтёрские склады загружены
+[13:18:03] Банки организаций загружены [2 мс]
+[13:18:04] Склады банд загружены [2 мс]
+[13:18:04] Билборды загружены [30 шт.] [6 мс]
+[13:18:04] Загружено 20 заправочных станций
+[13:18:04] Мебель не загружена
+[13:18:04] Гаражи | Загружено 12 | 3 мс
+[13:18:04] Номера в отеле | Загружено: 36 | 3 мс
+[13:18:04] Квартиры | Загружено: 48 | 20 мс
+[13:18:04] Business | Загружено: 98 | 112 мс
+[13:18:04] LoadHouses | Загружено 526 | 478 мс
+[13:18:04] 104 зон банд на карте загружено | 4 мс
+[13:18:04] Дата запуска: 07.10.2023 в 13:18
+[13:18:04] [connection] incoming connection: 172.234.49.146:62581 id: 0
+[13:18:04] [connection] incoming connection: 172.234.49.146:62582 id: 1
+[13:18:04] [connection] incoming connection: 172.234.49.146:62583 id: 2
+[13:18:05] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[13:18:05] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[13:18:05] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[13:18:33] [connection] 103.125.16.36:47417 requests connection cookie.
+[13:18:34] [connection] incoming connection: 103.125.16.36:47417 id: 3
+[13:18:34] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[13:18:44] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGAR)
+[13:18:48] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[13:19:44] [Angga_Ali] Command(3, alogin )
+[13:19:49] [Angga_Ali] OnDialogResponse(3, 1227, 1, -1, 193345)
+[13:19:53] [Angga_Ali] Command(3, setlic )
+[13:19:56] [Angga_Ali] Command(3, setlic )
+[13:20:22] [Angga_Ali] Command(3, setlic )
+[13:20:28] [Angga_Ali] Command(3, pveh )
+[13:20:30] [Angga_Ali] Command(3, e )
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:22:21] filterscripts = ""  (string)
+[13:22:21] 
+[13:22:21] Server Plugins
+[13:22:21] --------------
+[13:22:21]  Loading plugin: crashdetect
+[13:22:21]   CrashDetect plugin 4.19.4
+[13:22:21]   Loaded.
+[13:22:21]  Loading plugin: streamer
+[13:22:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:22:21]   Loaded.
+[13:22:21]  Loading plugin: sscanf
+[13:22:21] 
+
+[13:22:21]  ===============================
+
+[13:22:21]       sscanf plugin loaded.     
+
+[13:22:21]          Version:  2.8.1        
+
+[13:22:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:22:22]  ===============================
+
+[13:22:22]   Loaded.
+[13:22:22]  Loading plugin: TOTP
+[13:22:22] TOTP plugin v1.0.1 by Games loaded.
+[13:22:22]   Loaded.
+[13:22:22]  Loading plugin: pawncmd
+[13:22:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:22:22]   Loaded.
+[13:22:22]  Loading plugin: regex
+[13:22:22] 
+
+[13:22:22] ______________________________________
+
+[13:22:22]  Regular Expression Plugin v0.2.1 loaded
+[13:22:22] ______________________________________
+
+[13:22:22]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:22:22] ______________________________________
+
+[13:22:22]   Loaded.
+[13:22:22]  Loading plugin: mysql
+[13:22:22]  >> plugin.mysql: R41-4 successfully loaded.
+[13:22:22]   Loaded.
+[13:22:22]  Loaded 7 plugins.
+
+[13:22:22] 
+[13:22:22] Filterscripts
+[13:22:22] ---------------
+[13:22:22]   Loaded 0 filterscripts.
+
+[13:22:22] [Nex-AC] Загрузка античита прошла успешно
+[13:22:22] [Normative-Rp] Происходит загрузка игрового мода...
+[13:22:22] NPC поездов подключены
+[13:22:22] Подключение к базе данных выполнено
+[13:22:22] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[13:22:22] Number of vehicle models: 64
+[13:22:22] Экономика загружена [0 мс]
+[13:22:22] 24 зон мафий на карте загружено | 0 мс
+[13:22:22] Семьи не загружены
+[13:22:22] >> Шахтёрские склады загружены
+[13:22:22] [connection] 172.234.49.146:57997 requests connection cookie.
+[13:22:22] [connection] 172.234.49.146:57998 requests connection cookie.
+[13:22:22] Банки организаций загружены [1 мс]
+[13:22:22] [connection] 172.234.49.146:57999 requests connection cookie.
+[13:22:22] Склады банд загружены [2 мс]
+[13:22:22] Билборды загружены [30 шт.] [6 мс]
+[13:22:22] Загружено 20 заправочных станций
+[13:22:22] Мебель не загружена
+[13:22:22] Гаражи | Загружено 12 | 3 мс
+[13:22:22] Номера в отеле | Загружено: 36 | 4 мс
+[13:22:22] Квартиры | Загружено: 48 | 20 мс
+[13:22:22] Business | Загружено: 98 | 105 мс
+[13:22:23] LoadHouses | Загружено 526 | 464 мс
+[13:22:23] 104 зон банд на карте загружено | 5 мс
+[13:22:23] Дата запуска: 07.10.2023 в 13:22
+[13:22:23] [connection] incoming connection: 172.234.49.146:57997 id: 0
+[13:22:23] [connection] incoming connection: 172.234.49.146:57998 id: 1
+[13:22:23] [connection] incoming connection: 172.234.49.146:57999 id: 2
+[13:22:23] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[13:22:23] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[13:22:23] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[13:22:27] [connection] 103.125.16.36:38142 requests connection cookie.
+[13:22:28] [connection] incoming connection: 103.125.16.36:38142 id: 3
+[13:22:28] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[13:22:36] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[13:22:40] [debug] Run time error 4: "Array index out of bounds"
+[13:22:40] [debug]  Attempted to read/write array element at negative index -400
+[13:22:40] [debug] AMX backtrace:
+[13:22:40] [debug] #0 002c13e4 in public ac_OnPlayerClickTextDraw (playerid=3, Text:clickedid=111) at C:\Users\Administrator\Downloads\Normative\gamemodes\normative.pwn:34417
+[13:22:40] [debug] #1 00030794 in public OnPlayerClickTextDraw (playerid=3, Text:clickedid=111) at C:\Users\Administrator\Downloads\Normative\compiler\include\nex-ac+pickfix.inc:4796
+[13:22:59] [part] Angga_Ali has left the server (3:0)
+[13:23:10] [connection] 103.125.16.36:35868 requests connection cookie.
+[13:23:11] [connection] incoming connection: 103.125.16.36:35868 id: 3
+[13:23:12] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[13:23:22] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[13:23:28] [Angga_Ali] Command(3, alogin )
+[13:23:32] [Angga_Ali] OnDialogResponse(3, 1227, 1, -1, 193345)
+[13:24:01] [part] Angga_Ali has left the server (3:0)
+[13:25:07] [connection] 103.125.16.36:40070 requests connection cookie.
+[13:25:08] [connection] incoming connection: 103.125.16.36:40070 id: 3
+[13:25:13] [connection] 103.125.16.36:38275 requests connection cookie.
+[13:25:14] [connection] incoming connection: 103.125.16.36:38275 id: 4
+[13:25:15] [join] Angga_Ali has joined the server (4:103.125.16.36)
+[13:25:26] [Angga_Ali] OnDialogResponse(4, 2, 1, -1, ANGGARA)
+[13:25:33] [Angga_Ali] Command(4, alogin )
+[13:25:38] [Angga_Ali] OnDialogResponse(4, 1227, 1, -1, 193345)
+[13:25:58] [Angga_Ali] Command(4, e )
+[13:26:15] [Angga_Ali] Command(4, fill )
+[13:26:23] [Angga_Ali] Command(4, buyfuel )
+[13:26:29] [Angga_Ali] Command(4, fill )
+[13:26:34] [Angga_Ali] Command(4, fill 3 10)
+[13:26:42] [Angga_Ali] Command(4, phone )
+[13:26:51] [Angga_Ali] OnDialogResponse(4, 69, 1, 0, [2] РќРѕРјРµСЂ SIM-РєР°СЂС‚С‹)
+[13:26:54] [Angga_Ali] OnDialogResponse(4, 69, 1, 1, [3] Р¦РІРµС‚ С‚РµР»РµС„РѕРЅР°)
+[13:26:58] [Angga_Ali] OnDialogResponse(4, 481, 1, -1, 193345)
+[13:27:02] [Angga_Ali] OnDialogResponse(4, 69, 1, 2, [4] Р¤РѕС‚РѕР°РїРїР°СЂР°С‚ (20 СЃРЅРёРјРєРѕРІ))
+[13:27:04] [Angga_Ali] OnDialogResponse(4, 485, 1, 3, Зелёный)
+[13:27:09] [Angga_Ali] OnDialogResponse(4, 69, 1, 3, [5] Р‘СѓРєРµС‚ С†РІРµС‚РѕРІ)
+[13:27:11] [Angga_Ali] OnDialogResponse(4, 69, 1, 4, [6] РњР°СЃРєР°)
+[13:27:14] [Angga_Ali] OnDialogResponse(4, 69, 1, 5, [7] РђРїС‚РµС‡РєР°)
+[13:27:16] [Angga_Ali] OnDialogResponse(4, 69, 1, 7, [9] Р—Р°Р¶РёРіР°Р»РєР°)
+[13:27:19] [Angga_Ali] OnDialogResponse(4, 7485, 0, 0, Parlament)
+[13:27:20] [Angga_Ali] OnDialogResponse(4, 69, 1, 7, [9] Р—Р°Р¶РёРіР°Р»РєР°)
+[13:27:21] [Angga_Ali] OnDialogResponse(4, 7485, 0, 0, Parlament)
+[13:27:24] [Angga_Ali] OnDialogResponse(4, 69, 1, 8, [10] РўСЂРѕСЃС‚СЊ)
+[13:27:27] [Angga_Ali] OnDialogResponse(4, 69, 1, 9, [11] РџР°СЂР°С€СЋС‚)
+[13:27:31] [Angga_Ali] OnDialogResponse(4, 69, 1, 10, [12] РњР°РіРЅРёС‚РѕС„РѕРЅ)
+[13:27:33] [Angga_Ali] OnDialogResponse(4, 69, 1, 11, [13] Р‘Р°Р»Р»РѕРЅС‡РёРє СЃ РєСЂР°СЃРєРѕР№)
+[13:27:37] [Angga_Ali] OnDialogResponse(4, 69, 1, 12, [13] Р‘Р°Р»Р»РѕРЅС‡РёРє СЃ РєСЂР°СЃРєРѕР№)
+[13:27:48] [Angga_Ali] Command(4, phone )
+[13:28:12] [Angga_Ali] Command(4, inv )
+[13:28:22] [Angga_Ali] Command(4, inv )
+[13:28:34] [Angga_Ali] Command(4, inv )
+[13:28:53] [Angga_Ali] Command(4, inv )
+[13:29:17] [Angga_Ali] OnDialogResponse(4, 1865, 1, 4, Р—Р°Р¶РёРіР°Р»РєР°)
+[13:29:19] [Angga_Ali] OnDialogResponse(4, 8456, 0, 0, Parlament)
+[13:34:22] [part] Angga_Ali has left the server (4:0)
+[14:00:15] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:02:42] filterscripts = ""  (string)
+[14:02:42] 
+[14:02:42] Server Plugins
+[14:02:42] --------------
+[14:02:42]  Loading plugin: crashdetect
+[14:02:42]   CrashDetect plugin 4.19.4
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: streamer
+[14:02:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: sscanf
+[14:02:42] 
+
+[14:02:42]  ===============================
+
+[14:02:42]       sscanf plugin loaded.     
+
+[14:02:42]          Version:  2.8.1        
+
+[14:02:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:02:42]  ===============================
+
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: TOTP
+[14:02:42] TOTP plugin v1.0.1 by Games loaded.
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: pawncmd
+[14:02:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: regex
+[14:02:42] 
+
+[14:02:42] ______________________________________
+
+[14:02:42]  Regular Expression Plugin v0.2.1 loaded
+[14:02:42] ______________________________________
+
+[14:02:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:02:42] ______________________________________
+
+[14:02:42]   Loaded.
+[14:02:42]  Loading plugin: mysql
+[14:02:42]  >> plugin.mysql: R41-4 successfully loaded.
+[14:02:42]   Loaded.
+[14:02:42]  Loaded 7 plugins.
+
+[14:02:42] 
+[14:02:42] Filterscripts
+[14:02:42] ---------------
+[14:02:42]   Loaded 0 filterscripts.
+
+[14:02:42] [Nex-AC] Загрузка античита прошла успешно
+[14:02:42] [Normative-Rp] Происходит загрузка игрового мода...
+[14:02:42] NPC поездов подключены
+[14:02:42] Подключение к базе данных выполнено
+[14:02:42] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[14:02:42] Number of vehicle models: 64
+[14:02:42] Экономика загружена [0 мс]
+[14:02:42] 24 зон мафий на карте загружено | 0 мс
+[14:02:42] [connection] 172.234.49.146:52621 requests connection cookie.
+[14:02:42] Семьи не загружены
+[14:02:42] >> Шахтёрские склады загружены
+[14:02:42] [connection] 172.234.49.146:52622 requests connection cookie.
+[14:02:42] Банки организаций загружены [1 мс]
+[14:02:42] [connection] 172.234.49.146:52623 requests connection cookie.
+[14:02:42] Склады банд загружены [2 мс]
+[14:02:42] Билборды загружены [30 шт.] [6 мс]
+[14:02:42] Загружено 20 заправочных станций
+[14:02:42] Мебель не загружена
+[14:02:42] Гаражи | Загружено 12 | 3 мс
+[14:02:42] Номера в отеле | Загружено: 36 | 3 мс
+[14:02:42] Квартиры | Загружено: 48 | 19 мс
+[14:02:42] Business | Загружено: 98 | 109 мс
+[14:02:43] LoadHouses | Загружено 526 | 490 мс
+[14:02:43] 104 зон банд на карте загружено | 5 мс
+[14:02:43] Дата запуска: 07.10.2023 в 14:02
+[14:02:43] [connection] incoming connection: 172.234.49.146:52621 id: 0
+[14:02:43] [connection] incoming connection: 172.234.49.146:52622 id: 1
+[14:02:43] [connection] incoming connection: 172.234.49.146:52623 id: 2
+[14:02:43] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[14:02:43] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[14:02:43] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[15:00:31] PayDay
+[16:00:20] PayDay
+[17:00:08] PayDay
+[18:00:55] PayDay
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:12:31] filterscripts = ""  (string)
+[18:12:31] 
+[18:12:31] Server Plugins
+[18:12:31] --------------
+[18:12:31]  Loading plugin: crashdetect
+[18:12:31]   CrashDetect plugin 4.19.4
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: streamer
+[18:12:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: sscanf
+[18:12:31] 
+
+[18:12:31]  ===============================
+
+[18:12:31]       sscanf plugin loaded.     
+
+[18:12:31]          Version:  2.8.1        
+
+[18:12:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:12:31]  ===============================
+
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: TOTP
+[18:12:31] TOTP plugin v1.0.1 by Games loaded.
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: pawncmd
+[18:12:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: regex
+[18:12:31] 
+
+[18:12:31] ______________________________________
+
+[18:12:31]  Regular Expression Plugin v0.2.1 loaded
+[18:12:31] ______________________________________
+
+[18:12:31]  By: Fro (c) Copyright <TBG> 2009-2011
+[18:12:31] ______________________________________
+
+[18:12:31]   Loaded.
+[18:12:31]  Loading plugin: mysql
+[18:12:31]  >> plugin.mysql: R41-4 successfully loaded.
+[18:12:31]   Loaded.
+[18:12:31]  Loaded 7 plugins.
+
+[18:12:31] 
+[18:12:31] Filterscripts
+[18:12:31] ---------------
+[18:12:31]   Loaded 0 filterscripts.
+
+[18:12:31] [Nex-AC] Загрузка античита прошла успешно
+[18:12:31] [Normative-Rp] Происходит загрузка игрового мода...
+[18:12:31] NPC поездов подключены
+[18:12:31] Подключение к базе данных выполнено
+[18:12:31] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[18:12:31] [connection] 172.234.49.146:60047 requests connection cookie.
+[18:12:31] [connection] 172.234.49.146:60048 requests connection cookie.
+[18:12:31] Number of vehicle models: 64
+[18:12:31] [connection] 172.234.49.146:60049 requests connection cookie.
+[18:12:31] Экономика загружена [0 мс]
+[18:12:31] 24 зон мафий на карте загружено | 0 мс
+[18:12:31] Семьи не загружены
+[18:12:31] >> Шахтёрские склады загружены
+[18:12:31] Банки организаций загружены [2 мс]
+[18:12:31] Склады банд загружены [2 мс]
+[18:12:31] Билборды загружены [30 шт.] [7 мс]
+[18:12:31] Загружено 20 заправочных станций
+[18:12:31] Мебель не загружена
+[18:12:31] Гаражи | Загружено 12 | 4 мс
+[18:12:31] Номера в отеле | Загружено: 36 | 4 мс
+[18:12:31] Квартиры | Загружено: 48 | 19 мс
+[18:12:31] Business | Загружено: 98 | 114 мс
+[18:12:32] LoadHouses | Загружено 526 | 492 мс
+[18:12:32] 104 зон банд на карте загружено | 5 мс
+[18:12:32] Дата запуска: 07.10.2023 в 18:12
+[18:12:32] [connection] incoming connection: 172.234.49.146:60047 id: 0
+[18:12:32] [connection] incoming connection: 172.234.49.146:60048 id: 1
+[18:12:32] [connection] incoming connection: 172.234.49.146:60049 id: 2
+[18:12:32] [npc:join] Andrey_Ringo has joined the server (0:172.234.49.146)
+[18:12:32] [npc:join] Tony_Barrera has joined the server (1:172.234.49.146)
+[18:12:32] [npc:join] El_Capone has joined the server (2:172.234.49.146)
+[18:13:05] [connection] 103.125.16.36:48821 requests connection cookie.
+[18:13:06] [connection] incoming connection: 103.125.16.36:48821 id: 3
+[18:13:07] [join] Angga_Tes has joined the server (3:103.125.16.36)
+[18:13:29] [Angga_Tes] OnDialogResponse(3, 1, 1, -1, TESTING)
+[18:14:08] [Angga_Tes] OnDialogResponse(3, 119, 0, 0, [1] Statistik akun)
+[18:14:23] [part] Angga_Tes has left the server (3:0)
+[18:14:36] [connection] 103.125.16.36:47603 requests connection cookie.
+[18:14:37] [connection] incoming connection: 103.125.16.36:47603 id: 3
+[18:14:38] [join] Angga_Tes has joined the server (3:103.125.16.36)
+[18:14:52] [Angga_Tes] OnDialogResponse(3, 2, 1, -1, TESTING)
+[18:15:20] [Angga_Tes] Command(3, inv )
+[18:15:43] [Angga_Tes] Command(3, e )
+[18:16:26] [part] Angga_Tes has left the server (3:0)
+[18:18:10] [connection] 103.125.16.36:56619 requests connection cookie.
+[18:18:11] [connection] incoming connection: 103.125.16.36:56619 id: 3
+[18:18:12] [join] Angga_Ali has joined the server (3:103.125.16.36)
+[18:18:28] [Angga_Ali] OnDialogResponse(3, 2, 1, -1, ANGGARA)
+[18:19:06] [Angga_Ali] OnDialogResponse(3, 9445, 0, 0, [1] РЎРѕСЃС‚РѕСЏРЅРёРµ РѕРїР»Р°С‚С‹)
+[18:19:30] [Angga_Ali] OnDialogResponse(3, 8900, 0, 0, [1] РџРѕР»РѕР¶РёС‚СЊ СЃСЂРµРґСЃС‚РІР° РЅР° Р±Р°РЅРє. СЃС‡С‘С‚)
+[18:19:38] [Angga_Ali] OnDialogResponse(3, 69, 0, 0, [2] РќРѕРјРµСЂ SIM-РєР°СЂС‚С‹)
+[18:19:45] [Angga_Ali] Command(3, inv )
+[18:20:31] [Angga_Ali] OnDialogResponse(3, 1865, 1, 0, РЎРѕРє)
+[18:21:07] [Angga_Ali] Command(3, time )
+[18:21:13] [Angga_Ali] Command(3, c 060)
+[18:24:41] [part] Angga_Ali has left the server (3:0)
+[19:00:22] PayDay
